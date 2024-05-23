@@ -1,0 +1,13 @@
+{
+  "name": "@jimfilippou/awesome-sells",
+  "version": "0.0.2",
+  "description": "A curated list of awesome things related to selling stuff",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "generate:readme": "node generate.mjs"
+  },
+  "keywords": [],
+  "author": "Dimitrios Filippou <info@jimfilippou.com>",
+  "license": "ISC"
+}

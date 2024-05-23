@@ -1,10 +1,9 @@
 # awesome-sells
-A curated list of developer landing pages that sell physical or digital products
 
-# Developer Courses
+A curated list of developer landing pages that sell physical or digital products.
 
-- TODO
+# Developer used products for sale
 
-# Developer Used Physical Products
+<!-- contributors -->
 
-- https://jimfilippou.com/sells
+- [Dimitrios Filippou](https://jimfilippou.com/sells) 🏋️ I sell used hardware like cameras phones or batteries. 🇬🇷
